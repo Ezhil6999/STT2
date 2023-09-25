@@ -5,4 +5,8 @@ print(tokens)
 tagged = nltk.pos_tag(tokens)
 # used for posting the tag weaher it is object, adjective,verb amd so on
 a=tagged[0:6]
+
+
+
+print("hi")
 print(a)
