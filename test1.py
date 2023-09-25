@@ -7,6 +7,6 @@ tagged = nltk.pos_tag(tokens)
 a=tagged[0:6]
 
 
-
+print("bye")
 print("hi")
 print(a)
